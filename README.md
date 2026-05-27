@@ -10,7 +10,6 @@
 Membangun, melatih, serta menganalisis keandalan model arsitektur Convolutional Neural Network (CNN) untuk mendeteksi, mengekstraksi matriks spasial visual, dan mengklasifikasikan aset citra digital ke dalam kategori bentuk tangan gunting, batu, dan kertas secara otomatis.
 
 ## 2. Struktur Repositori
-- rockpaperscissors/ : Direktori dataset gambar yang terbagi atas folder paper, rock, dan scissors.
 - main_rps.py : Berisi kode implementasi pengolahan citra digital dan arsitektur CNN.
 - README.md : Dokumentasi teknis mengenai mekanisme kerja program komputer.
 
