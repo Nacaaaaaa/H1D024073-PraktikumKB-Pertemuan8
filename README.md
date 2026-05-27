@@ -7,7 +7,7 @@
 * Shift Baru; F
 
 ## 1. Tujuan Penugasan
-[cite_start]Membangun, melatih, serta menganalisis keandalan model arsitektur Convolutional Neural Network (CNN) untuk mendeteksi, mengekstraksi matriks spasial visual, dan mengklasifikasikan aset citra digital ke dalam kategori bentuk tangan gunting, batu, dan kertas secara otomatis [cite: 177-178, 188-189].
+Membangun, melatih, serta menganalisis keandalan model arsitektur Convolutional Neural Network (CNN) untuk mendeteksi, mengekstraksi matriks spasial visual, dan mengklasifikasikan aset citra digital ke dalam kategori bentuk tangan gunting, batu, dan kertas secara otomatis.
 
 ## 2. Struktur Repositori
 - rockpaperscissors/ : Direktori dataset gambar yang terbagi atas folder paper, rock, dan scissors.
