@@ -2,7 +2,7 @@
 
 **Identitas Mahasiswa:**
 * Nama: Nalendra Wicaksana
-* NIM: H1D024094
+* NIM: H1D024073
 * Shift Lama: E
 * Shift Baru; F
 
