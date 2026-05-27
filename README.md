@@ -22,7 +22,7 @@ Baris ini menginisialisasi objek 'ImageDataGenerator' yang bertindak sebagai pem
 #### Dampak Output:
 Rentang nilai warna piksel gambar yang semula bernilai 0 sampai 255 dikompresi secara seragam menjadi skala desimal dinamis antara 0.0 hingga 1.0 agar proses kalkulasi gradien bobot jaringan berjalan lebih stabil.
 
-Kode Integrasi Aliran Data Direktori:
+### Kode Integrasi Aliran Data Direktori:
 - train_generator = train_datagen.flow_from_directory(
     dataset_path, target_size=(150, 150), batch_size=32, class_mode='categorical', subset='training'
 )
